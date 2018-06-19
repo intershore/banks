@@ -12,3 +12,7 @@
 * [Fidor](http://fidor.de/) - free, web and mobile.
 * [Comdirect](https://www.comdirect.de/) - free, web only
 * [DKB](https://www.dkb.de/) - free
+
+## Estonia
+
+* [SEB Bank](https://www.seb.ee/eng)- [Price list](https://www.seb.ee/eng/price-list)
