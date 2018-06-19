@@ -1,4 +1,4 @@
-# Georgia Banks
+# 🇬🇪 Georgia Banks
 
 * Requirements: on-site (remote in very specific cases), passport, address (not verified), no minimum deposit.
 * Offshore Company accounts: possible, but to be reviewed (Bank of Georgia)
