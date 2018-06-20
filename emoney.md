@@ -8,6 +8,7 @@
 * [Revolut](https://www.revolut.com/) - UK
 * [Transferwise](https://transferwise.com) (Borderless)
 * [Monzo](https://monzo.com/) - UK
+* [Uphold](https://uphold.com/) - Fiat and Crypto
 
 ## Hong Kong
 * [i-account](https://www.i-account.cc/) - registration through support.
