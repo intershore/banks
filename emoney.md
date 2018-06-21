@@ -12,3 +12,8 @@
 
 ## Hong Kong
 * [i-account](https://www.i-account.cc/) - registration through support.
+
+
+## Links
+
+* [List of EMI and Digital Banks](https://www.streber.org/list-of-offshore-banks/list-emi-digital-banks/)
