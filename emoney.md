@@ -17,3 +17,4 @@
 ## Links
 
 * [List of EMI and Digital Banks](https://www.streber.org/list-of-offshore-banks/list-emi-digital-banks/)
+* [20 Fintech Firmen mit prepaid karte](https://www.staatenlos.ch/20-fintech-firmen-mit-prepaid-karte/) (German)
