@@ -1,4 +1,4 @@
-# E-Money Providers
+# EMIs (Electronic Money Institutions)
 
 
 ## Europe
